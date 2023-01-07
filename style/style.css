@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main-section{
+    background-image: url(/images/banner/banner1.png);
+    padding: 270px;
+ background-repeat: no-repeat;
+ 
+
+    
+}
+.heading{
+    text-align:right;
+    margin-left: 30px;
+    
+}
+.header{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 200px;
+font-size: 40px;
+text-align: right;
+}
+.pera{
+    text-align:right;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+}
+.btn{
+background-color: orangered;
+    color: white;
+    padding: 20px 40px;
+    border: none;
+    margin-top: 10px;
+    border-radius: 5px;
+    
+
+}
+.midle-section{
+    display: flex;
+    align-items: center;
+}
+ .pictures{
+    background-color:rgb(255, 228, 196);
+    width: 500px;
+    height: 500px;
+    border-radius: 250px;
+    margin: 10px 20px;
+ }
+ .failure{
+    font-weight: bold;
+    padding: 30px;
+ }
+ .contrary{
+    text-align: center;
+    padding: 30px;
+ }
+
+ .icons{
+ display: flex;
+ justify-content: space-around;
+ padding: 50px;
+ }
+ .planning{
+    text-align: center;
+ }
+ .bac-img{
+    
+    background-image: linear-gradient(#ff3300,#a2e6a268),url(/images/watch.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    margin:150px;
+    
+ }
+ .watch{
+    font-size: 40px;
+    margin-left: 50px;
+    padding-top: 30px;
+    color: white;
+    font-weight: bold;
+ }
+ .butn{
+    background-color: white;
+    color: red;
+    padding:15px 25px;
+    margin-left: 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 15px;
+ }
+ .footer-section{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    color: white;
+    background-color: black;
+    
+ }
+ .future{
+    padding-top: 80px;
+ }
+ .subscribe{
+    padding-top: 80px;
+ }
+ .future{
+    font-size: 20px;
+    
+ }
+ .peragra{
+    padding-top: 20px;
+ }
+ .li{
+  padding-top: 20px;
+  list-style: none;
+ }
+ .fb{
+    padding-top: 30px;
+ }
+ .phone{
+    padding-top: 10px;
+ }
+ .form{
+    padding: 20px 35px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    
+ }
+ .subbs{
+    padding-bottom: 20px;
+ }
+.cribe{
+    margin-top: 20px;
+    padding: 20px 30px;
+    color: #ff3300;
+    font-weight: bold;
+    border-radius: 5px;
+}
