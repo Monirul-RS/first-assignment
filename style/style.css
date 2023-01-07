@@ -46,18 +46,34 @@ background-color: orangered;
 }
  .pictures{
     background-color:rgb(255, 228, 196);
-    width: 500px;
-    height: 500px;
+    background-attachment: fixed;
+    width: 400px;
+    height: 385px;
     border-radius: 250px;
-    margin: 10px 20px;
+    margin: 30px 30px;
+    
+    
+    
  }
  .failure{
+    font-size: 30px;
     font-weight: bold;
-    padding: 30px;
+    padding:  20px 30px;
  }
  .contrary{
     text-align: center;
-    padding: 30px;
+    padding-top: 10px;
+    text-align: left;
+    padding-left: 40px;
+ }
+ .ul{
+    text-align: center;
+    padding-top: 20px;
+    text-align: left;
+    padding-left: 40px;
+    list-style: none;
+    
+    
  }
 
  .icons{
@@ -141,4 +157,12 @@ background-color: orangered;
     color: #ff3300;
     font-weight: bold;
     border-radius: 5px;
+}
+.person{
+   padding-left:  150px;
+
+}
+
+.check{
+   color: aquamarine;
 }
