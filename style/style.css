@@ -3,10 +3,10 @@
     padding: 0px;
 }
 .main-section{
-    background-image: url(/images/banner/banner1.png);
+    background-image: url("../images/banner/banner1.png");
     padding: 270px;
  background-repeat: no-repeat;
- 
+ background-size: cover;
 
     
 }
@@ -86,7 +86,7 @@ background-color: orangered;
  }
  .bac-img{
     
-    background-image: linear-gradient(#ff3300,#a2e6a268),url(/images/watch.png);
+    background-image: linear-gradient(#ff3300,#a2e6a268),url(../images/watch.png);
     background-repeat: no-repeat;
     height: 250px;
     margin:150px;
